@@ -1,0 +1,4 @@
+﻿  01 vector.cpp
+E:\VisualStudioProject\MyProject\Project_z75 vector容器\Project_z75 vector容器\01 vector.cpp(184,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\VisualStudioProject\MyProject\Project_z75 vector容器\Project_z75 vector容器\01 vector.cpp(189,20): warning C4018: “<”: 有符号/无符号不匹配
+  Project_z75 vector容器.vcxproj -> E:\VisualStudioProject\MyProject\Project_z75 vector容器\Debug\Project_z75 vector容器.exe

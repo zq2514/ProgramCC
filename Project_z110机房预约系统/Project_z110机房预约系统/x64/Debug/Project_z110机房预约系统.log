@@ -1,0 +1,15 @@
+﻿  manager.cpp
+  manager.h
+  orderfile.cpp
+E:\VisualStudioProject\MyProject\Project_z110机房预约系统\Project_z110机房预约系统\orderfile.cpp(28,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\VisualStudioProject\MyProject\Project_z110机房预约系统\Project_z110机房预约系统\orderfile.cpp(36,27): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\VisualStudioProject\MyProject\Project_z110机房预约系统\Project_z110机房预约系统\orderfile.cpp(44,24): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\VisualStudioProject\MyProject\Project_z110机房预约系统\Project_z110机房预约系统\orderfile.cpp(52,26): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\VisualStudioProject\MyProject\Project_z110机房预约系统\Project_z110机房预约系统\orderfile.cpp(60,25): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\VisualStudioProject\MyProject\Project_z110机房预约系统\Project_z110机房预约系统\orderfile.cpp(68,25): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  student.cpp
+  teacher.cpp
+  机房预约系统.cpp
+  正在生成代码...
+x64\Debug\manager.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  Project_z110机房预约系统.vcxproj -> E:\VisualStudioProject\MyProject\Project_z110机房预约系统\x64\Debug\Project_z110机房预约系统.exe

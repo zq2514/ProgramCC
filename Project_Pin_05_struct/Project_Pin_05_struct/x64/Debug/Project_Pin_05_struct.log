@@ -1,0 +1,2 @@
+﻿  test64-structDefineAndUsing.cpp
+E:\VisualStudioProject\MyCproject\Project_Pin_05_struct\Project_Pin_05_struct\test64-structDefineAndUsing.cpp(167,44): error C2676: 二进制“[”:“teacher”不定义该运算符或到预定义运算符可接收的类型的转换

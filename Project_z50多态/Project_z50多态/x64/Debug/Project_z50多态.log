@@ -1,0 +1,4 @@
+﻿  01 多态案例 计算器类.cpp
+E:\VisualStudioProject\MyProject\Project_z50多态\Project_z50多态\01 多态案例 计算器类.cpp(5,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+E:\VisualStudioProject\MyProject\Project_z50多态\Project_z50多态\01 多态案例 计算器类.cpp(25): warning C4715: “Caculator::getResult”: 不是所有的控件路径都返回值
+  Project_z50多态.vcxproj -> E:\VisualStudioProject\MyProject\Project_z50多态\x64\Debug\Project_z50多态.exe
